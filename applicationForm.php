@@ -34,6 +34,7 @@
           <option value="institutional">Institutional</option>
         </select>
       </div>
+      
       <div class="mb-3">
         <label for="buildingSize" class="form-label">Building Size</label>
         <input type="text" class="form-control" id="buildingSize" placeholder="Enter building size">
